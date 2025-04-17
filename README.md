@@ -7,4 +7,4 @@ TBA
 
 ## Required Components:
 - x2usbc PCB
-- ![USB-C Connector](https://www.aliexpress.com/item/1005004218910074.html)
+- [USB-C Connector](https://www.aliexpress.com/item/1005004218910074.html)
